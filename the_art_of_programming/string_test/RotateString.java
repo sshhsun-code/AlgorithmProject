@@ -17,7 +17,7 @@ public class RotateString {
 			System.out.print(str[i]);
 		}
 		System.out.println("");
-		new RotateString().rotateString(str, 4);
+		new RotateString().rotateString(str, 2);
 		for (int i = 0; i < str.length; i++) {
 			System.out.print(str[i]);
 		}
